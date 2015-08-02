@@ -2,6 +2,8 @@ package br.com.mat.lojadecarros.entidade;
 
 import java.util.ArrayList;
 
+//Entidade Loja
+
 public class Loja {
 	
 	String nome;
