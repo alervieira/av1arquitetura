@@ -1,5 +1,7 @@
 package br.com.mat.lojadecarros.entidade;
 
+//Entidade de Carro
+
 public class Carro {
 	
 	String chassi;
